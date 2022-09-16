@@ -1,0 +1,6 @@
+MVC pattern = model (business logic) > view (presentation logic) > controller (application logic)
+
+MVC architecture = request > router(product.route.js) > controller(product.controller.js) > model/services(product.service.js) > response
+
+Fat model / thin controller
+Separation of concern
